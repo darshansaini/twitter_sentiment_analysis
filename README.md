@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 1. Python 2.7 or higher
-2. clone the repo https://github.com/SCK22/Twitter-Sentiment (use the master branch)
+2. clone the repo https://github.com/darshansaini/twitter_sentiment_analysis.git (use the master branch)
 3. Install packages run pip install -r requirements.txt
 4. Twitter API authentication Keys, generated from twitter API and put them in a access_tokens.json file in the following format.
 ```
