@@ -19,8 +19,7 @@ oauth = OAuth(ACCESS_TOKEN, ACCESS_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
 
 
 def run_multiple_processes(n_procs, func_exec, keyword):
-    """Run multiple processes, as of now ,the admin id is fixed
-     thanks to https://pythonprogramming.net/values-from-multiprocessing-intermediate-python-tutorial/ """
+
     print("run_multiple_processes called")
     q = Queue()
     processes = []
